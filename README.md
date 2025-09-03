@@ -1,2 +1,2 @@
-# WhatsUP_Development
-This repository is to develop a chart application
+# WhatsUP_Developments
+This repository is to develop a chart applications
