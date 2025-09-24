@@ -22,6 +22,9 @@ Author : Venkat
 
 10. Added Group Chart with 200 users
 
+11. Added Avathar feature
+
+
 
 
 
