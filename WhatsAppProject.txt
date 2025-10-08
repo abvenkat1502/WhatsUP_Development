@@ -24,6 +24,7 @@ Author : Venkat
 
 11. Added Avathar feature
 
+12. Payment Feature added
 
 
 
