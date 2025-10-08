@@ -26,6 +26,9 @@ Author : Venkat
 
 12. Payment Feature added
 
+13. Chat lock feature added
+
+
 
 
 
