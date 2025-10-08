@@ -26,6 +26,8 @@ Author : Venkat
 
 12. Payment Feature added
 
+13. Chart Lock Feature added
+
 
 
 
